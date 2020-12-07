@@ -1,7 +1,0 @@
-##default Input file
-Rwd	10
-Pnlty	-10
-Rwd_Peak	1
-Pnlty_Peak	1
-Rwd_std	50
-Pnlty_std	50
